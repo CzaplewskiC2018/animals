@@ -1,0 +1,164 @@
+<Mammals>
+    <Human>
+        <Black>
+            <donald> hates bugs=yes  thin=yes </donald>
+            <dudley> hates XML formatting=yes  fat=yes </dudley>
+        </Black>
+        <White>
+            <steve> likes mowing lawns=yes fat=yes </steve>
+            <chuck> SGT E-5=yes  thin=yes </chuck> 
+        </White>
+        <Asian> 
+            <jia> Mean first SGT=yes thin=yes </jia>
+            <mi> strange boi=yes  fat=yes </mi>
+        </Asian> 
+    </Human>        
+    <dog>
+        <Black>
+            <donny> hates bugs=yes  thin=yes </donny>
+            <duke> hates small children=yes  fat=no </duke>
+        </Black>
+        <german shepherd>
+            <biter> has a mental disorder=yes fat=yes </biter>
+            <hadendas> mean=yes  thin=yes </hadendas> 
+        </german shepherd>
+
+        <boxer> 
+            <daisy> super sweet=yes thin=yes </daisy>
+            <brock> strange boi=yes  fat=no </brock>
+        </boxer> 
+    </dog>        
+    <cat>
+        <persian>
+            <shemes> eats hair=yes  thin=yes </shemes>
+            <memes> hates small children=yes  fat=no </memes>
+        </persian>
+
+        <hairless>
+            <catty> bites random stuff=yes fat=yes </catty>
+            <mander> eats cardboard=yes  thin=yes </mander> 
+        </hairless>
+        <siamese> 
+            <fiedo> has super sharp claws=yes thin=yes </fiedo>
+            <donald> is a secret assasin=yes  fat=no </donald>
+        </siamese> 
+    </cat>
+    <squirrel>
+        <gray>
+            <doug> tries to kill dogs=yes  thin=yes </doug>
+            <doggie> eats cats=yes  fat=no </doggie>
+        </gray>
+        <red>
+            <cam> bites random stuff=yes fat=yes </cam>
+            <mom> kills small animals=yes  thin=yes </mom> 
+        </red>
+        <wood> 
+            <flo> does stuff in trees=yes thin=yes </flo>
+            <dank> has a gf=yes  fat=no </dank>
+        </wood> 
+    </squirrel>
+    <mouse>
+        <gray>
+            <annoying1> punches above its weight=yes  thin=yes </annoying1>
+            <annoying2> is a window licker=yes  fat=no </annoying2>
+        </gray>
+        <forest>
+            <damm> fights others=yes fat=yes </damm>
+            <gigi> my be disabled=yes  thin=yes </gigi> 
+        </forest>
+        <desert> 
+            <gogins> does stuff in trees=no thin=yes </gogins>
+            <popie> has a gf=yes  fat=yes </popie>
+        </desert> 
+    </mouse> 
+</mammals>
+-------------------------------------------------------------------------------------------------------------------------------
+<Fish>
+    <bass>
+        <small mouth>
+            <bick> short=yes  thin=no </bick>
+            <rick> long=yes  fat=yes </rick>
+        </small mouth>
+
+        <large mouth>
+            <nick> eats bigger fish=yes fat=no </nick>
+            <kick> long=yes  thin=yes </kick> 
+        </large mouth>
+        <european> 
+            <pick> short=no thin=no </pick>
+            <lick> short=yes  fat=yes </lick>
+        </european> 
+    </bass> 
+
+    <trout>
+        <brook>
+            <lommi> long=yes  thin=yes </lommi>
+            <tom> long=yes  fat=no </tom>
+        </brook>
+
+        <rainbow>
+            <tim> long=yes </tim>
+            <tod> long=yes  thin=no </tod> 
+        </rainbow>
+
+        <lake> 
+            <tad> fly=no thin=yes </tad>
+            <jose> long=yes  fat=yes </jose>
+        </lake> 
+    </trout> 
+
+    <octopus>
+        <mimic>
+            <meme> long=yes thin=no </meme>
+            <moo> short=yes  fat=no </moo>
+        </mimic>
+
+        <blanket>
+            <burke> long=yes fat=yes </burke>
+            <bankit> long=yes  thin=yes </bankit> 
+        </blanket>
+
+        <tree> 
+            <tete> does stuff in trees= long=yes </tete>
+            <thee> holds a fight club in the trees=yes  yes=no </thee>
+        <tree> 
+    </octopus> 
+
+    <puffer>
+        <takifugu rubripes>
+            <TJ> short=yes  thin=yes </TJ>
+            <RJ> short=yes  fat=no </RJ>
+        </takifugu rubripes>
+
+        <arothron stellatus>
+            <aaron> long=yes fat=yes </aaron>
+            <aladin> long=yes  thin=yes </aladin> 
+        </arothron stellatus>
+
+        <mbu> 
+            <mom> long=no thin=yes </mom>
+            <dom> long=yes  fat=yes </dom>
+        </mbu> 
+    </puffer> 
+
+    <mouse>
+        <gray>
+            <annoying1> short=yes  thin=yes </annoying1>
+            <annoying 2> tall=yes  fat=no </annoying 2>
+        </gray>
+
+        <forest>
+            <damm> fights=yes fat=yes </damm>
+            <gigi> tall=yes  thin=yes </gigi> 
+        </forest>
+
+        <desert> 
+            <gogins> short=no thin=yes </gogins>
+            <popie> short=yes  fat=yes </popie>
+        </desert> 
+    </mouse> 
+
+</fish>
+
+
+
